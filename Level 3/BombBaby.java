@@ -36,6 +36,6 @@ public class BombBaby {
     }
 
     public static void main(String[] args) {
-        System.out.println(solution(args[0], args[1]));
+        System.out.println(solution("5", "9"));
     }
 }

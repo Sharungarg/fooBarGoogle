@@ -66,6 +66,10 @@ public class LambdaPrime {
         return true;
     }
 
+    public static void main(String[] args) {
+        System.out.println(solution(9999));
+    }
+
     /*
      * If we just want to do what's asked, below is an easy and probably the fastest
      * implementation of "sulution" for generating the substring from Lambda's

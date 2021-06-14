@@ -83,6 +83,6 @@ public class KnightMoves {
     }
 
     public static void main(String[] args) {
-        System.out.println(solution(Integer.parseInt(args[0]), Integer.parseInt(args[1])));
+        System.out.println(solution(1, 60));
     }
 }
